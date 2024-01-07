@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashmita
 - 👀 I’m interested in Web D and coding
-- 🌱 I’m currently learning DSA and more in Web D
+- 🌱"Learning DSA & Web Dev to build efficient web apps. Join me on this journey of continuous learning!"
 - 💞️ I’m looking to collaborate on Full Stack Web Developer
 - 📫 How to reach me email ashmitasethi16@gmail.com
 - 📫 Find me on LinkedIn www.linkedin.com/in/ashmita-sethi
