@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashmita🪢</h1>
-<h3 align="center">A Web developer🎖️</h3>
+<h3 align="center">A developer🎖️</h3>
 
 <img align="right" alt="coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
 
